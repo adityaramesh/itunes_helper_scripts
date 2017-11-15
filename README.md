@@ -4,10 +4,10 @@ I often find myself performing the same few tasks when organizing my music in iT
 tasks are too cumbersome and time-consuming to do using iTunes' UI for more than a few files. So, I
 wrote a few scripts to help me organize music more quickly. Here are the main features:
 
-  - [**Edit song names with regex.**][scripts/atag_sub.py] Songs in an album often have long,
+  - [**Edit song names with regex.**](scripts/atag_sub.py) Songs in an album often have long,
     redundant prefixes that make it difficult to read the name of the song currently being played,
     especially on mobile devices.
-  - [**Reindex track numbers.**][scripts/atag_reindex.py] It's sometimes necessary to merge or split
+  - [**Reindex track numbers.**](scripts/atag_reindex.py) It's sometimes necessary to merge or split
     albums, but the iTunes interface makes it cumbersome to reindex the track numbers. This script
     renumbers the track numbers of all `n` files in a given directory. The file with the smallest
     track number is assigned the new track number `k`, and the file with the largest track number is
