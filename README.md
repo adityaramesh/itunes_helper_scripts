@@ -23,7 +23,7 @@ album.
 
 # Requirements
 
-- Python 3.6 and metagen
+- Python 3.6 and mutagen
 
 # Example Usage
 
