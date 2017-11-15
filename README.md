@@ -1,6 +1,6 @@
 # Overview
 
-Scripts to help quickly organize music. Features:
+Scripts to perform tasks that are cumbersome in iTunes. Features:
 
   - [**Edit song names with regex.**][scripts/atag_sub.py] Songs in an album often have long,
     redundant prefixes that make it difficult to read the name of the song currently being played,
