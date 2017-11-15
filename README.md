@@ -1,6 +1,8 @@
 # Overview
 
-Scripts to perform tasks that are cumbersome in iTunes. Features:
+I often find myself performing the same few tasks when organizing my music in iTunes. Many of these
+tasks are too cumbersome and time-consuming to do using iTunes' UI for more than a few files. So, I
+wrote a few scripts to help me organize music more quickly. Here are the main features:
 
   - [**Edit song names with regex.**][scripts/atag_sub.py] Songs in an album often have long,
     redundant prefixes that make it difficult to read the name of the song currently being played,
