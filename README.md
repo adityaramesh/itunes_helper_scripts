@@ -32,12 +32,15 @@ to actually be committed. For safety reasons, the default behavior is to perform
 
 - View the names of all songs in `my_album`:
 
+
 	python3.6 scripts/atag_sub.py my_album/*.mp4
 
 - Strip the prefix "Prefix: " from the names of all songs in `my_album`:
 
+
 	python3.6 scripts/atag_sub.py -p "Prefix: " -r "" my_album/*.mp4
 
 - Reindex the track numbers of all songs in `my_album`:
+
 
 	python3.6 scripts/atag_reindex.py my_album/*.mp4
